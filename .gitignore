@@ -156,4 +156,4 @@ unknown_errors.txt
  #custom
 *.session
 /settings/config.ini
-/settings/config_aiogram.ini
+/settings/config.ini
